@@ -44,3 +44,5 @@ Contributions are welcome and encouraged. If you have suggestions or improvement
 ## License
 
 Open-source under the MIT License. See the LICENSE file for more details.
+
+![Project Logo](https://media.licdn.com/dms/image/C4E03AQErvOLSbwpuRg/profile-displayphoto-shrink_800_800/0/1651179636283?e=2147483647&v=beta&t=ec2-Q-NWjyx_CX_pWzc2NyuMk24td0_gOZaWeVZdo-E)
